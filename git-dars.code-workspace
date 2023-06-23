@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Akademnashr"
+		},
+		{
+			"path": "../demo-photo-gallery"
+		},
+		{
+			"path": "../002-GIT-FUNDAMENTALS/001-html-foundementals"
+		}
+	],
+	"settings": {}
+}
